@@ -82,7 +82,7 @@ The app includes 3 functional screens:
 
 ## 📱 Demo
 
-*(Add screenshots or demo video here if available)*
+[Vision Mate](https://drive.google.com/file/d/1DaasMQQujRKmmViE8nLlDdb4YGQwyd5M/view?usp=drive_link)
 
 ---
 
